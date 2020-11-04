@@ -1,0 +1,12 @@
+body{
+    text-align:center;
+    color: yellow;
+    background-color: darkblue;
+}
+iframe{
+    margin:30px;
+}
+#mygames{
+    background-color: red;
+    color: yellow;
+}
